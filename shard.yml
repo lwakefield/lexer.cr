@@ -1,0 +1,14 @@
+name: Lexer
+description: A simple regex based lexer
+version: 0.1.0
+
+authors:
+  - Lawrence Wakefield <lawrence@iamlawrence.me>
+
+crystal: 0.35.0
+
+license: MIT
+
+targets:
+  lexer:
+    main: lexer.cr
